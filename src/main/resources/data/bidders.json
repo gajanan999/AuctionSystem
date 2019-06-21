@@ -1,0 +1,35 @@
+[
+	
+		{
+			"bidderId":"1111",
+			"name":"Gajanan",
+			"bidPerClick":"5",
+			"budget":"100.00"
+		},
+		{
+			"bidderId":"1112",
+			"name":"Tomas",
+			"bidPerClick":"10",
+			"budget":"200.00"
+		},
+		{
+			"bidderId":"1113",
+			"name":"Jack",
+			"bidPerClick":"15",
+			"budget":"300.00"
+		},
+		{
+			"bidderId":"1114",
+			"name":"Villan",
+			"bidPerClick":"7",
+			"budget":"400.00"
+		},
+		{
+			"bidderId":"1115",
+			"name":"John",
+			"bidPerClick":"90",
+			"budget":"500.00"
+		}
+	
+
+]
